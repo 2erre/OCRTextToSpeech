@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OCRCamera</string>
+    <string name="inquadra_testo">Inquadra testo</string>
+    <string name="leggi">Leggi</string>
+</resources>

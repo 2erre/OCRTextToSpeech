@@ -1,0 +1,4 @@
+#Fri Sep 20 11:04:41 CEST 2019
+base.0=/home/raffaele/Scrivania/OCRCamera-master/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
